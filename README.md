@@ -1,0 +1,3 @@
+It is a quiz application for small children, in which they will be required to enter name and after that on clicking next button they will be taken to the main page and will be shown 1 image and for spelling options from which they will have to choose the correct answer and move to next queestion, each question has a timer of 2 min, if the answer will be not choosen and moved to next question then it automatically move to next question.
+For every correct question there is 10 marks, for not attempting the question 0 marks and if attempting and answer is wrong then -5 mark. 
+Each time when the user starts the quiz the options will be shuffled and will have to choose correct answer.
